@@ -1,0 +1,16 @@
+[device]
+id = "22c12f2f-3058-4fbe-adb4-65279afbefa4"
+name = "SPBGateway"
+description = "Smart Pro Box Bluetooth-enabled automated tool tracking system"
+
+[[device.firmware]]
+version = "1.0.0"
+profiles = [
+    "US915-1_0_3.toml",
+    "EU868-1_0_3.toml",
+]
+codec = "dt114-spbgateway.js"
+
+[device.metadata]
+product_url = "https://www.viaanix.com"
+documentation_url = "https://www.viaanix.com/devices/spb"

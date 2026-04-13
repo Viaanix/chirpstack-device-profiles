@@ -1,0 +1,8 @@
+[vendor]
+id = "d7837571-5b0b-4694-adb2-c443afbb57ed"
+name = "Viaanix"
+vendor_id = 0
+ouis = ["104D15"]
+
+[vendor.metadata]
+homepage = "https://www.viaanix.com"
